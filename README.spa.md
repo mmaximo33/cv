@@ -1,25 +1,52 @@
 # Marucci Maximo
-_Consultor de expansion | Freelancer | Ecommerce_ <br>
+_TPM Technical Project Manager | Analyst Developer Fullstack | Ecommerce | Adobe Commerce (Magento) | PHP | Python | Bash | JavaScript_ <br>
 
 Mas info en | [LinkedIn](https://www.linkedin.com/in/marucci-maximo/) | [GitHub](https://github.com/mmaximo33/EFDE) | [Linktree](https://linktr.ee/marucci.maximo)
 
 ## 💻 Experiencia 
+### @ [Campo Simple](https://www.linkedin.com/company/camposimple) 
+**Ecommerce Manager**  _(mar. 2024 - actualidad)_ <br>
+
+Responsable integral de la gestión de la tienda online desarrollada en Magento, liderando el proceso completo de ecommerce end-to-end, desde la planificación estratégica hasta la operación diaria junto a los diferentes equipos involucrados en cada especialidad (Operacion, Administracion, Finanzas, Logistica, Marketing, Areas de tecnología)
+
+- Administracion avanzada de Magento 2, configuraciones de modulos de terceros y propios
+- Recopilacion de requerimientos, diseño de soluciones a medida, planificacion para una correcta implementacion y correcciones de modulos propios que se ajusten a las reglas de negocio establecidas por product owner de cada area.
+- Integraciones con ERP, CRM o Sistemas Personalizados
+- Mantenimiento preventivo y correctivo general.
+- Configuracion y optimizacion es de servicios redis, varnish, cdn, otros
+- Gestion de infraestructura en AWC EC2,RDS,S3
+- Control de versiones, automatizacion y gestion de entornos dev/stage/prod
+- Monitoreo de logs, debuggings, seguimiento e errores y documentacion de procesos.
+- Optimizacion y automatizacion de procesos rutinarios fuera del ecommerce con scripting (python, bash)
+- Reuniones de alineamiento con equipos multidisplinarios, Operacion, Administracion, Finanzas, Logistica, Marketing, areas de tecnologia o sistemas.
+
 
 ### @ [Consultor de expansion](https://www.linkedin.com/in/marucci-maximo/) 
-**Freelancer | Ecommerce Manager | Technical Project Manager | Magento Developer**  _(dic. 2022 - actualidad)_ <br>
+**Consultor de expansión | Ecommerce Manager | Project Manager | Magento Developer | Freelancer**  _(dic. 2022 - actualidad)_ <br>
 
 Audito, planifico y ejecuto todo el proceso end-to-end acompañando a compañias y emprendedos en el camino de digitalizar su marca de productos o servicios
 
-Diseño, planificacion, desarrollo, implemento, mantengo y proponga cambios en busca de la mejora continua de procesos o soluciones orientadas a ecommerce y enfocadas a la satisfacción del cliente para mejorar su alcance y potenciar sus resultados.
+Diseño, planificacion, desarrollo, implemento, mantengo y propongo cambios en busca de la mejora continua de procesos o soluciones orientadas a ecommerce y enfocadas a la satisfacción del cliente para mejorar su alcance y potenciar sus resultados.
 
 
 ### @ [WebImpacto - Consultora de Negocios Digitales](https://www.linkedin.com/company/webimpacto-consulting-sl) **6 meses**
-**Magento Developer**  _(ene. 2023 - jun 2023)_ <br> 
-Diseño, planificacion, desarrollo, implementación, mantenimiento y mejora continua de procesos o soluciones orientadas a ecommerce y enfocadas a la satisfacción del cliente. 
+**Analyst Developer Ecommerce - Magento Developer**  _(ene. 2023 - jun 2023)_ <br> 
 
+Contrato temporal acordado para acompañar equipo interno durante periodo de alta demanda en area de ecommerce (Magento, Prestashop, WooCommerce)
+
+- Toma de requerimientos, planteo y diseño de solución, implementación en ambientes de desarrollos y productivos por medio de un enfoque devops.
+- Mantenimiento preventivo y evolutivo de modulos de terceros y propios. 
+- Adutorias y monitoreo de logs , performance 
+- Optimizacion y automatizacion de procesos rutinarios
+- Confeccion y correccion de integraciones con ERP, PIM, CRM y sistemas personalizados.
+- Implementacion de metodologias agiles en ciclos de desarrollo
+
+
+**_Tecnologias:_** Adobe Commerce · Planificación de procesos · Liderazgo de equipos · Planificación de proyectos · PHP · SQL · Magento · WooCommerce · PrestaShop · Docker · Python · Bash · Apache · Datadog · Nginx · JavaScript · NewRelic · Laravel · Git · Mejora de procesos · WordPress · Linux
+<br><br>
 
 ### @ [Serfe](https://www.linkedin.com/company/serfe-com/) **3 años 2 meses**
-**Analyst Developer Fullstack**  _(dic. 2019 - ene. 2023)_ <br>
+**Analyst Developer Ecommerce - Magento Developer**  _(dic. 2019 - ene. 2023)_ <br>
 Diseño, planificacion, desarrollo, implementación, mantenimiento y mejora continua de procesos o soluciones orientadas a ecommerce y enfocadas a la satisfacción del cliente.
 
 Preferencia backend, base de datos, monitoreo, analisis de datos, servidores, gestion de proyectos
