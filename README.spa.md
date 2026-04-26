@@ -1,14 +1,22 @@
 # Marucci Maximo
-_TPM Technical Project Manager | Analyst Developer Fullstack | Ecommerce | Adobe Commerce (Magento) | PHP | Python | Bash | JavaScript_ <br>
+_TPM Technical Project Manager | Ecommerce | Adobe Commerce (Magento) | PHP | Python | Bash | JavaScript_ <br>
 
 Mas info en | [LinkedIn](https://www.linkedin.com/in/marucci-maximo/) | [GitHub](https://github.com/mmaximo33/EFDE) | [Linktree](https://linktr.ee/marucci.maximo)
 
 ## 💻 Experiencia 
 ### @ [Campo Simple](https://www.linkedin.com/company/camposimple) 
-**Ecommerce Manager**  _(mar. 2024 - actualidad)_ <br>
+**Technical Ecommerce Manager**  _(mar. 2024 - actualidad)_ <br>
 
 Responsable integral de la gestión de la tienda online desarrollada en Magento, liderando el proceso completo de ecommerce end-to-end, desde la planificación estratégica hasta la operación diaria junto a los diferentes equipos involucrados en cada especialidad (Operacion, Administracion, Finanzas, Logistica, Marketing, Areas de tecnología)
 
+Casos de exito
+- Reduje a 0 las caidas del sitio productivo en 1 meses
+- Realice el TakeOver del proyecto completo en 4 meses
+- Migre con exito un proceso core para el negocio de excel a integracion %100 en ecommerce, reduciendo en 90% el margen de error y consiguiendo un x5 en la velocidad del equipo involucrado
+- Confeccione integraciones para diferentes sistemas que orbitan la operacion ERP/CRM/CustomSystem lo que permitio automatizar en un 80% el proceso manual
+- Recopile y confecione reglas de negocio custom que mejoro el como se acerca el producto a los clientes
+
+Tareas
 - Administracion avanzada de Magento 2, configuraciones de modulos de terceros y propios
 - Recopilacion de requerimientos, diseño de soluciones a medida, planificacion para una correcta implementacion y correcciones de modulos propios que se ajusten a las reglas de negocio establecidas por product owner de cada area.
 - Integraciones con ERP, CRM o Sistemas Personalizados
@@ -24,13 +32,13 @@ Responsable integral de la gestión de la tienda online desarrollada en Magento,
 ### @ [Consultor de expansion](https://www.linkedin.com/in/marucci-maximo/) 
 **Consultor de expansión | Ecommerce Manager | Project Manager | Magento Developer | Freelancer**  _(dic. 2022 - actualidad)_ <br>
 
-Audito, planifico y ejecuto todo el proceso end-to-end acompañando a compañias y emprendedos en el camino de digitalizar su marca de productos o servicios
+Audito, planifico y ejecuto todo el proceso end-to-end acompañando a compañias y emprendedores en el camino de digitalizar su marca de productos o servicios
 
 Diseño, planificacion, desarrollo, implemento, mantengo y propongo cambios en busca de la mejora continua de procesos o soluciones orientadas a ecommerce y enfocadas a la satisfacción del cliente para mejorar su alcance y potenciar sus resultados.
 
 
 ### @ [WebImpacto - Consultora de Negocios Digitales](https://www.linkedin.com/company/webimpacto-consulting-sl) **6 meses**
-**Analyst Developer Ecommerce - Magento Developer**  _(ene. 2023 - jun 2023)_ <br> 
+**Technical Project Manager | Ecommerce | Magento Developer**  _(ene. 2023 - jun 2023)_ <br> 
 
 Contrato temporal acordado para acompañar equipo interno durante periodo de alta demanda en area de ecommerce (Magento, Prestashop, WooCommerce)
 
