@@ -117,4 +117,3 @@ Responsable de procesos administrativo y cumplimiento de hitos relacionados a ob
   - Cierre de centros operativos a nivel administrativo (cliente y proveedores)
 
 **_Tecnologias:_** Microsoft Excel · Comunicación · Mejora continua · Optimización de procesos · Liderazgo de equipos · Gestión de proyectos · Planificación de proyectos · Planificación estratégica · Mejora de procesos · SAP ERP · Visual Basic for Applications (VBA)
-
